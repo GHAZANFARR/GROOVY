@@ -11,4 +11,5 @@ class Man{
 }
 
 println(person.name)
+
 println(Man.name1)
